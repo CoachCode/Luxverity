@@ -96,19 +96,19 @@ p {
 	border: 2px #FFFFFF solid;
 	padding: 8px 30px;
 	border-radius: 30px;
-	color: rgb(5, 117, 39);
+	color: rgb(8, 173, 57);
 	text-decoration: none;
 }
 
 .info-box-tan {
-	background-color: #b9a88e;
+	background-color: #203863;
 	color: #FFFFFF;
 	padding: 30px 20px 60px;
 	text-align: center;
 }
 
 .info-box-dark {
-	background-color: #2D2D35;
+	background-color: rgb(4, 75, 33);
 	color: #FFFFFF;
 	padding: 30px 20px 60px;
 	text-align: center;
