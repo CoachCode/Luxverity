@@ -191,5 +191,10 @@ p {
 	.col-lg-one-fourth {
 		width: 25%;
 	}
+	
+	.col-md-one-Third {
+		Width: 33.33%;
+	}
+
 }
 
