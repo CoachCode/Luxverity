@@ -158,6 +158,10 @@ p {
 		margin-bottom: 16px;
 	}
 	
+	.col-md-one-Third {
+		Width: 33.33%;
+	}
+	
 	.col-md-one-half {
 		width: 50%;
 	}
