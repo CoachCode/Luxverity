@@ -66,6 +66,14 @@ body {
 	text-align: center;
 	text-shadow: 4px 4px 2px #FFFFFF;
 }
+.hero2 {
+	background-image: url(images/Pyramid_top.png);
+	background-size: cover;
+	padding: 70px 20px 50px 20px;
+	color: #000000;
+	text-align: center;
+	text-shadow: 4px 4px 2px #FFFFFF;
+}
 .hero1 {
 	background-image: url(images/Under-Construction-Sign.png);
 	background-size: 600px 200px;
