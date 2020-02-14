@@ -66,6 +66,12 @@ body {
 	text-align: center;
 	text-shadow: 4px 4px 2px #FFFFFF;
 }
+.hero1 {
+	background-image: url(images/Under-Construction-Sign.png);
+	background-size: 600px 200px;
+	background-repeat: no-repeat;
+	padding: 70px 20px 50px 20px;
+}
 
 h1 {
 	font-size: 60px;
